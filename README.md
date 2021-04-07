@@ -4,7 +4,7 @@
 🛠 Use `JavaScript`, `React.js`, `Node.js`, `MySQL`\
 🇬🇧 Based in UK 
 
-💼 Live demo of pinned repo available at http://hannahchoi.net \
+💼 Live demo of pinned repo available at
 🌱 Learning JavaScript algorithms and data structures \
 📮 Reach me: hannahchoi.developer@gmail.com 
 
