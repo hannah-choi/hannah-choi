@@ -1,12 +1,11 @@
-### Hi there, I'm Hannah, software developer.
-\
-🛠 I use `JavaScript`, `React.js`, `Node.js`, `MySQL`\
-🇬🇧 Currently working in UK 
+### Hi there, I'm Hannah.
 
-🕶 Live demo of pinned repo available at http://hannahchoi.net/ \
-✉️ Reach me: hannahchoi.developer@gmail.com 
+The world is divided into two types of people: those who run away saying they don’t know, and those who approach saying they don’t know. I've clearly been the latter. 
+Transitioning from web design to development, I've continuously navigated through a sea of unknowns, fussing and figuring things out along the way.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannah-developer&show_icons=true&locale=en&layout=compact" alt="hannah-developer" /></p>
+* I use: `TypeScript` `React` `Node.js` `Next.js`
+* Currently learning `Python`
+* Currently working as a software engineer in London
 
 <!--
 **hannah-developer/hannah-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
